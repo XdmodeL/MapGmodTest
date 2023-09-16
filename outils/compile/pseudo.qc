@@ -1,6 +1,6 @@
 // Created by Crowbar 0.49.0.0
 
-$modelname "models/Cube/.mdl"
+$modelname "models/Cube/Cube.mdl"
 
 $bodygroup "Cube"
 {
@@ -20,7 +20,7 @@ $bbox 0 -327.694 0 43.767 0 179.656
 
 
 $sequence "idle" {
-	"mika_anims\idle.smd"
+	"lumine_anims\idle.smd"
 	activity "ACT_VM_IDLE" 1
 	fadein 0.2
 	fadeout 0.2
