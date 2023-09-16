@@ -1,10 +1,10 @@
 // Created by Crowbar 0.49.0.0
 
-$modelname "models/pseudo/xxxx.mdl"
+$modelname "models/Cube/.mdl"
 
-$bodygroup "xxxx"
+$bodygroup "Cube"
 {
-	studio "xxxx.smd"
+	studio "Cube.smd"
 }
 
 $surfaceprop "TYPE"
@@ -12,7 +12,7 @@ $surfaceprop "TYPE"
 $contents "solid"
 
 $maxeyedeflection 90
-$cdmaterials "models\pseudo\"
+$cdmaterials "models\Cube\"
 
 $cbox 0 0 0 0 0 0
 
@@ -28,7 +28,7 @@ $sequence "idle" {
 	fps 30
 }
 
-$collisionmodel "xxxx.smd"
+$collisionmodel "Cube.smd"
 {
 	$mass 1
 	$inertia 1
