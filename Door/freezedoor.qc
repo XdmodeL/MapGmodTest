@@ -1,6 +1,0 @@
-$modelname door/f
-$
-$
-$
-$
-$
